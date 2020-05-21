@@ -1,0 +1,14 @@
+name: nlpenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - certifi=2019.11.28=py36_0
+  - pip=19.3.1=py36_0
+  - python=3.6.6=he025d50_0
+  - setuptools=42.0.2=py36_0
+  - wheel=0.33.6=py36_0
+  - wincertstore=0.2=py36_1003
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_0
+prefix: C:\Users\asengup6\Softwares\Anaconda\envs\nlpenv
